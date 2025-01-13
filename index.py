@@ -20,6 +20,13 @@ for y in range (6,20):
      print(y)
 
 
+ #break
+ days =["Mon","Tue","Wed","Thur","Fri","Sat","Sun"]
+for d in days:
+    if (d=="Thur"): break
+    print(d)
+
+
 
 
 
