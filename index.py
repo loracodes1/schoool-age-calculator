@@ -8,5 +8,24 @@ def school_age_calculator (age, name):
         print("Thet grow up so fast")
 
 school_age_calculator(3, "Florence")
+
+
+
+x =0
+while (x<5):
+   print(x)
+   x=x+1
+   
+
+
+
+
+
+
+
+
+
+
+
         
 
