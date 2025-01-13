@@ -27,8 +27,8 @@ for d in days:
     print(d)
 
 #using continue to skip a day
-for d in days:
-    if (d=="Thur"): continue
+for da in days:
+    if (da=="Thur"): continue
     print(d)
 
 
