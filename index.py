@@ -29,7 +29,7 @@ for d in days:
 #using continue to skip a day
 for da in days:
     if (da=="Thur"): continue
-    print(d)
+    print(da)
 
 
 
