@@ -21,10 +21,17 @@ for y in range (6,20):
 
 
  #break
- days =["Mon","Tue","Wed","Thur","Fri","Sat","Sun"]
+days =["Mon","Tue","Wed","Thur","Fri","Sat","Sun"]
 for d in days:
     if (d=="Thur"): break
     print(d)
+
+#using continue to skip a day
+for d in days:
+    if (d=="Thur"): continue
+    print(d)
+
+
 
 
 
